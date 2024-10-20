@@ -106,6 +106,25 @@ git push origin feature-name
 ### License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
+## Screenshots of the Application
+
+Here are some screenshots of the CinéStar platform:
+
+
+<img width="682" alt="image" src="https://github.com/user-attachments/assets/c4931bc6-2265-4f89-ae3c-bae971f5f8f8">
+
+
+<img width="484" alt="image" src="https://github.com/user-attachments/assets/c121b700-7338-4eab-a608-5035ae3268f3">
+
+
+
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/3336209b-d3b5-41b2-b50f-edfddecd7183">
+
+<img width="670" alt="image" src="https://github.com/user-attachments/assets/e297e3a5-9059-4171-8343-a27b623abd7b">
+<img width="691" alt="image" src="https://github.com/user-attachments/assets/7c487315-b3a1-4a75-b034-68a84f812c83">
+
+
+
  For more details, check the presentation:
 # Project Presentation: 
 https://www.canva.com/design/DAFyF27394c/xldVGvE6ciZtzF5-jtZL6w/edit
