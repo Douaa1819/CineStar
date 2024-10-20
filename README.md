@@ -2,48 +2,47 @@
 
 ## Introduction
 
-**CinéStar** est une plateforme de réservation de cinéma développée avec Laravel, PHP, et SQL, permettant aux utilisateurs d'explorer des films, de réserver des billets et de gérer les réservations. Les administrateurs peuvent contrôler efficacement l'ensemble du système. Ce projet a été complété en **8 jours** par l'équipe.
+**CinéStar** is a cinema booking platform developed with Laravel, PHP, and SQL, allowing users to explore movies, book tickets, and manage reservations. Administrators can effectively control the entire system. This project was completed in **8 days** by the team.
 
+## Features
 
-## Fonctionnalités
+### For Users
+- 🔒 **Secure Registration**: Register as a Member or Administrator.
+- 🌟 **Social Login**: Quickly access with Google or Facebook via Laravel Socialite.
+- 🎥 **Movie Exploration**: Search for movies by title, genre, or actor.
+- 🎟️ **Seat Selection**: Interactive map of the room to choose your seat.
+- 📧 **E-Ticket**: Receive and print your ticket by email.
 
-### Pour les Utilisateurs
-- 🔒 **Inscription Sécurisée**: Inscrivez-vous en tant que Membre ou Administrateur.
-- 🌟 **Connexion Sociale**: Accédez rapidement avec Google ou Facebook via Laravel Socialite.
-- 🎥 **Exploration des Films**: Recherchez des films par titre, genre ou acteur.
-- 🎟️ **Sélection des Sièges**: Plan interactif de la salle pour choisir votre place.
-- 📧 **E-Billet**: Recevez et imprimez votre billet par email.
-
-### Pour les Administrateurs
-- 🚀 **Gestion Efficiente**: Gérer les réservations et gérer la liste des films.
-- 🛡️ **Validation des Données**: Validation sécurisée des entrées utilisateurs.
-- 🔄 **Optimisation des Performances**: Mise en cache et URL optimisées pour le SEO.
-- 📊 **Analytique**: Suivez la performance du cinéma et les films populaires.
+### For Administrators
+- 🚀 **Efficient Management**: Manage reservations and manage the list of movies.
+- 🛡️ **Data Validation**: Secure validation of user inputs.
+- 🔄 **Performance Optimization**: Caching and optimized URLs for SEO.
+- 📊 **Analytics**: Track cinema performance and popular movies.
 
 ## Technologies
 - **Backend**: Laravel, PHP, MySQL
 - **Frontend**: Blade, HTML, CSS, JavaScript
-- **Authentification**: Laravel Socialite (Google, Facebook)
-- **Base de données**: MySQL
-- **Mise en Cache**: Redis
+- **Authentication**: Laravel Socialite (Google, Facebook)
+- **Database**: MySQL
+- **Caching**: Redis
 - **Tests**: PHPUnit
 
 ## Installation
 
-Suivez ces étapes pour configurer le projet en local :
+Follow these steps to configure the project locally:
 
-1. **Clonez le dépôt** :
-   ```bash
-   git clone https://github.com/Douaa1819/CineStar.git
-   cd CineStar
+1. **Clone the repository**:
+```bash
+git clone https://github.com/Douaa1819/CineStar.git
+cd CineStar
 
-``
+```
 
-2. **Install dependencies**:  
-   Make sure you have Composer installed, then run:
-   ```bash
-   composer install
-``
+2. **Install dependencies**:
+Make sure you have Composer installed, then run:
+```bash
+composer install
+````
 
 ### Configure the environment:
 ### Copy the .env.example file to .env and set up your database and other configurations.
@@ -98,13 +97,9 @@ Here are some screenshots of the CinéStar platform:
 
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/c4931bc6-2265-4f89-ae3c-bae971f5f8f8">
 
-
 <img width="677" alt="image" src="https://github.com/user-attachments/assets/c1b80dda-9ec8-4f70-b7d7-99eaf8a65514">
 
-
-
 <img width="691" alt="image" src="https://github.com/user-attachments/assets/3336209b-d3b5-41b2-b50f-edfddecd7183">
-
 <img width="670" alt="image" src="https://github.com/user-attachments/assets/e297e3a5-9059-4171-8343-a27b623abd7b">
 <img width="691" alt="image" src="https://github.com/user-attachments/assets/7c487315-b3a1-4a75-b034-68a84f812c83">
 
