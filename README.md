@@ -4,17 +4,6 @@
 
 **CinéStar** est une plateforme de réservation de cinéma développée avec Laravel, PHP, et SQL, permettant aux utilisateurs d'explorer des films, de réserver des billets et de gérer les réservations. Les administrateurs peuvent contrôler efficacement l'ensemble du système. Ce projet a été complété en **8 jours** par l'équipe.
 
-## Table des Matières
-- [Fonctionnalités](#fonctionnalités)
-  - [Pour les Utilisateurs](#pour-les-utilisateurs)
-  - [Pour les Administrateurs](#pour-les-administrateurs)
-- [Technologies](#technologies)
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribution](#contribution)
-- [Collaborateurs](#collaborateurs)
-- [Licence](#licence)
-- [Captures d'Écran](#captures-décran)
 
 ## Fonctionnalités
 
