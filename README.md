@@ -114,7 +114,7 @@ Here are some screenshots of the CinéStar platform:
 <img width="682" alt="image" src="https://github.com/user-attachments/assets/c4931bc6-2265-4f89-ae3c-bae971f5f8f8">
 
 
-<img width="484" alt="image" src="https://github.com/user-attachments/assets/c121b700-7338-4eab-a608-5035ae3268f3">
+<img width="677" alt="image" src="https://github.com/user-attachments/assets/c1b80dda-9ec8-4f70-b7d7-99eaf8a65514">
 
 
 
