@@ -47,7 +47,9 @@ Suivez ces étapes pour configurer le projet en local :
    ```bash
    git clone https://github.com/Douaa1819/CineStar.git
    cd CineStar
+
 ``
+
 2. **Install dependencies**:  
    Make sure you have Composer installed, then run:
    ```bash
