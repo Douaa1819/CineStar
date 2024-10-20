@@ -43,7 +43,8 @@ Suivez ces étapes pour configurer le projet en local :
    Make sure you have Composer installed, then run:
    ```bash
    composer install
-````
+``
+
 ### Configure the environment:
 ### Copy the .env.example file to .env and set up your database and other configurations.
 cp .env.example .env
