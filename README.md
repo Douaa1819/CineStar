@@ -64,21 +64,7 @@ php artisan migrate
  - For user access, visit the homepage and either sign up or log in using Google or Facebook.
  - For administrative access, log in with an Administrator account to manage films and reservations.
 
-### Contributing:
- We welcome contributions to enhance the project! To contribute:
 
-### Fork the repository.
-
-### Create a new branch with your feature or bug fix:
-git checkout -b feature-name
-
-### Commit your changes:
-git commit -m "Add new feature"
-
-### Push the changes to your fork:
-git push origin feature-name
-
-# Open a pull request.
 
 ### Collaborators:
 
