@@ -75,14 +75,16 @@ php artisan migrate
 ./vendor/bin/sail up
 
 # Usage:
-# Once the application is up and running, you can access it in your browser:
-# - For user access, visit the homepage and either sign up or log in using Google or Facebook.
-# - For administrative access, log in with an Administrator account to manage films and reservations.
+
+ Once the application is up and running, you can access it in your browser:
+ - For user access, visit the homepage and either sign up or log in using Google or Facebook.
+ - For administrative access, log in with an Administrator account to manage films and reservations.
 
 # Contributing:
-# We welcome contributions to enhance the project! To contribute:
+ We welcome contributions to enhance the project! To contribute:
 
 # Fork the repository.
+
 # Create a new branch with your feature or bug fix:
 git checkout -b feature-name
 
@@ -95,13 +97,15 @@ git push origin feature-name
 # Open a pull request.
 
 # Collaborators:
+
 # Meet the amazing team behind CinéStar:
-# - Douaa Chemnane- Full Stack Developer
-# - Hariti Asmmae - Full Stack Developer
-# - Ghollam Simo - Full Stack Developer
+ - Douaa Chemnane- Full Stack Developer
+ - Hariti Asmmae - Full Stack Developer
+ - Ghollam Simo - Full Stack Developer
 
 # License:
-# This project is licensed under the MIT License. See the LICENSE file for details.
+#This project is licensed under the MIT License. See the LICENSE file for details.
 
-# For more details, check the presentation:
-# Project Presentation: https://www.canva.com/design/DAFyF27394c/xldVGvE6ciZtzF5-jtZL6w/edit
+ For more details, check the presentation:
+# Project Presentation: 
+https://www.canva.com/design/DAFyF27394c/xldVGvE6ciZtzF5-jtZL6w/edit
