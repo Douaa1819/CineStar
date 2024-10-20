@@ -60,51 +60,51 @@ Follow these steps to set up the project locally:
    ```bash
    composer install
 ````
-# Configure the environment:
-# Copy the .env.example file to .env and set up your database and other configurations.
+### Configure the environment:
+### Copy the .env.example file to .env and set up your database and other configurations.
 cp .env.example .env
 
-# Generate an application key:
+### Generate an application key:
 php artisan key:generate
 
-# Run database migrations:
+### Run database migrations:
 php artisan migrate
 
-# Run the application locally:
-# You can use Laravel Sail for local development with Docker.
+### Run the application locally:
+### You can use Laravel Sail for local development with Docker.
 ./vendor/bin/sail up
 
-# Usage:
+### Usage:
 
  Once the application is up and running, you can access it in your browser:
  - For user access, visit the homepage and either sign up or log in using Google or Facebook.
  - For administrative access, log in with an Administrator account to manage films and reservations.
 
-# Contributing:
+### Contributing:
  We welcome contributions to enhance the project! To contribute:
 
-# Fork the repository.
+### Fork the repository.
 
-# Create a new branch with your feature or bug fix:
+### Create a new branch with your feature or bug fix:
 git checkout -b feature-name
 
-# Commit your changes:
+### Commit your changes:
 git commit -m "Add new feature"
 
-# Push the changes to your fork:
+### Push the changes to your fork:
 git push origin feature-name
 
 # Open a pull request.
 
-# Collaborators:
+### Collaborators:
 
-# Meet the amazing team behind CinéStar:
+### Meet the amazing team behind CinéStar:
  - Douaa Chemnane- Full Stack Developer
  - Hariti Asmmae - Full Stack Developer
  - Ghollam Simo - Full Stack Developer
 
-# License:
-#This project is licensed under the MIT License. See the LICENSE file for details.
+### License:
+This project is licensed under the MIT License. See the LICENSE file for details.
 
  For more details, check the presentation:
 # Project Presentation: 
