@@ -1,7 +1,5 @@
 # 🎥 CinéStar - Revolutionizing Cinema Booking Experience 🎥
 
-![CinéStar Logo](link-to-your-logo-if-available)
-
 ## Introduction
 
 **CinéStar** is an innovative web platform designed to provide an exceptional cinema experience by merging the passion for films with cutting-edge technology. Built using Laravel, PHP, and SQL, this platform offers users a seamless way to explore and book their favorite movies, while administrators can efficiently manage the entire system.
