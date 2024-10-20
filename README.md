@@ -1,56 +1,49 @@
-# 🎥 CinéStar - Revolutionizing Cinema Booking Experience 🎥
+# 🎥 CinéStar - Cinema Booking Platform 🎥
 
 ## Introduction
 
-**CinéStar** is an innovative web platform designed to provide an exceptional cinema experience by merging the passion for films with cutting-edge technology. Built using Laravel, PHP, and SQL, this platform offers users a seamless way to explore and book their favorite movies, while administrators can efficiently manage the entire system.
+**CinéStar** est une plateforme de réservation de cinéma développée avec Laravel, PHP, et SQL, permettant aux utilisateurs d'explorer des films, de réserver des billets et de gérer les réservations. Les administrateurs peuvent contrôler efficacement l'ensemble du système. Ce projet a été complété en **8 jours** par l'équipe.
 
-This project was completed in **8 days**, meeting the deadline of **28/02/2024**.
-
-## Table of Contents
-- [Features](#features)
-  - [For Users](#for-users)
-  - [For Administrators](#for-administrators)
-- [Tech Stack](#tech-stack)
+## Table des Matières
+- [Fonctionnalités](#fonctionnalités)
+  - [Pour les Utilisateurs](#pour-les-utilisateurs)
+  - [Pour les Administrateurs](#pour-les-administrateurs)
+- [Technologies](#technologies)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Utilisation](#utilisation)
+- [Contribution](#contribution)
+- [Collaborateurs](#collaborateurs)
+- [Licence](#licence)
+- [Captures d'Écran](#captures-décran)
 
-## Features
+## Fonctionnalités
 
-### ++ FOR OUR USERS ++
-- 🔒 **Simplified Registration**: Choose your role as either a Member or Administrator. A secure authentication system awaits you.
-- 🌟 **Easy Login**: Use Google or Facebook for quick access via Laravel Socialite.
-- 🎥 **Explore Cinema**: Search movies by title, genre, or actor, and easily view schedules and availability.
-- 🎟️ **Ticket Booking**: Select your seat from an interactive hall map.
-- 📧 **E-Ticketing**: Receive and print your ticket directly from your email.
+### Pour les Utilisateurs
+- 🔒 **Inscription Sécurisée**: Inscrivez-vous en tant que Membre ou Administrateur.
+- 🌟 **Connexion Sociale**: Accédez rapidement avec Google ou Facebook via Laravel Socialite.
+- 🎥 **Exploration des Films**: Recherchez des films par titre, genre ou acteur.
+- 🎟️ **Sélection des Sièges**: Plan interactif de la salle pour choisir votre place.
+- 📧 **E-Billet**: Recevez et imprimez votre billet par email.
 
-### ++ FOR OUR ADMINISTRATORS ++
-- 🚀 **Optimized Management**: Control reservations and inform users about any changes.
-- 🛡️ **Data Integrity**: Validate user inputs with specific queries.
-- 💼 **Film Catalogue**: Add, edit, or delete movies in the database.
-- 🔄 **Improved Performance**: Frequently accessed data is cached for better responsiveness.
-- 🌐 **Easy Development & Deployment**: Use Laravel Sail for local development and simple deployment.
-- 📝 **SEO-Friendly URLs**: Automatically generate slugs for accessible links.
-- 📈 **Access Control**: Create custom middleware for role-based access and ensure quality with unit tests.
-- 📊 **Analytics & Strategy**: Track cinema performance and analyze popular movies among viewers.
+### Pour les Administrateurs
+- 🚀 **Gestion Efficiente**: Gérer les réservations et gérer la liste des films.
+- 🛡️ **Validation des Données**: Validation sécurisée des entrées utilisateurs.
+- 🔄 **Optimisation des Performances**: Mise en cache et URL optimisées pour le SEO.
+- 📊 **Analytique**: Suivez la performance du cinéma et les films populaires.
 
-## Tech Stack
-
-The following technologies were used in the development of **CinéStar**:
-- **Backend**: Laravel, PHP, SQL
+## Technologies
+- **Backend**: Laravel, PHP, MySQL
 - **Frontend**: Blade, HTML, CSS, JavaScript
-- **Authentication**: Laravel Socialite (Google, Facebook)
-- **Database**: MySQL
-- **Caching**: Redis
-- **Testing**: PHPUnit
-- **Deployment**: Laravel Sail, Docker
+- **Authentification**: Laravel Socialite (Google, Facebook)
+- **Base de données**: MySQL
+- **Mise en Cache**: Redis
+- **Tests**: PHPUnit
 
 ## Installation
 
-Follow these steps to set up the project locally:
+Suivez ces étapes pour configurer le projet en local :
 
-1. **Clone the repository**:
+1. **Clonez le dépôt** :
    ```bash
    git clone https://github.com/Douaa1819/CineStar.git
    cd CineStar
